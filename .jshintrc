@@ -1,0 +1,14 @@
+{
+  "mocha": true,
+  "curly": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "esversion": 6,
+  "freeze": true,
+  "indent": 2,
+  "latedef": "nofunc",
+  "node": true,
+  "strict": true,
+  "undef": true,
+  "unused": "vars"
+}
